@@ -9,7 +9,7 @@ Fullname: David Chukwuyem
 
 MY INTERNSHIP ID: HNG-03163
 
-#### Things I'll be learning in HNG Internship as a backend developer are:
+#### Things I'll be learning in HNG Internship 7.0 as a backend developer are:
 - NodeJs
 - PHP
 - Python
