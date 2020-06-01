@@ -2,12 +2,14 @@
 
 The HNG Internship is an ambitious attempt to change the way education is done in Africa. It’s the bridge between learning to code and becoming the best in the world.
 
+# THIS IS MY HNG INTERNSHIP 7.O FIRST TASK
+
 ## MY HNG DASHBOARD
 Fullname: David Chukwuyem
 
 MY INTERNSHIP ID: HNG-03163
 
-### Things I'll be learning in HNG Internship as a backend developer are:
+#### Things I'll be learning in HNG Internship as a backend developer are:
 - NodeJs
 - PHP
 - Python
